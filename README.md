@@ -2,7 +2,6 @@
 simple flickr search function with React Native for iOS
 
 <br />
-<img src='http://www.mehrdust.com/downloads/flickr_ios_app.png' alt='screenshot' style="width:300px;"/>
 
 <h2>Get Started</h2>
 <ol>
